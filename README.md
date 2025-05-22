@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'm+Queen;Multi+Device+Whatsapp+Bot;Coded+By+DarkWinzo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'm+GL;Multi+Device+Whatsapp+Bot;Coded+By+DarkWinzo" alt="Typing SVG" /></a>
 
  
  <p align="center">
-<a href="https://github.com/DarkWinzo/Queen-MD"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Queen&description=Hello,%20I%20am%20Queen%20MD.%20I%20am%20First%20Multi-device%20Whatsapp%20%Sinhala20Bot,%20You%20Can%20Deploy%20Me%20%20%20enjoy%20Futures&image=https://i.ibb.co/jZkzpw2/Queen.jpg&backgroundColor=%23ecf0f1&instagram=@darkWinzo&github=DarkWinzo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
+<a href="https://github.com/DarkWinzo/GL-MD"><img align="center" src="https://github-cardname.caliph.my.id/api?name=GL&description=Hello,%20I%20am%20Queen%20MD.%20I%20am%20First%20Multi-device%20Whatsapp%20%Sinhala20Bot,%20You%20Can%20Deploy%20Me%20%20%20enjoy%20Futures&image=https://i.ibb.co/jZkzpw2/GL.jpg&backgroundColor=%23ecf0f1&instagram=@darkWinzo&github=DarkWinzo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
 </p>
  
  
@@ -12,7 +12,7 @@
   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-No-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-New%20version%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/GL%20MD-New%20version%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 <div align="center">
@@ -21,11 +21,11 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://github.com/DarkWinzo/Queen-MD/blob/main/Media/Image/Deploy.png?raw=true" width="200"></a>
+  <a href="https://github.com/DarkWinzo/GL-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://github.com/DarkWinzo/GL-MD/blob/main/Media/Image/Deploy.png?raw=true" width="200"></a>
   
 # `Scan QR Code For Session`
  
-<a href="https://queenmd-qr.darkwinzo.repl.co/"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://GLmd-qr.darkwinzo.repl.co/"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Upload Session to Github`
 
@@ -62,10 +62,10 @@
 <!---->
 
 
-Deploy Queen Bot heroku  <br>
+Deploy GL Bot heroku  <br>
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUB ID/Queen-MD 
+  https://heroku.com/deploy?template=https://github.com/GITHUB ID/GL-MD 
   ```
   
   <br> <br>
@@ -77,8 +77,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/DarkWinzo/Queen-MD
-cd Queen-MD
+git clone https://github.com/DarkWinzo/GL-MD
+cd GL-MD
 npm install
 npm i pm2
 pm2 start index.js && pm2 save && pm2 logs
